@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1519465659 source:/Users/xavier/Documents/lab6/main.c
+	<stdio.h>
+	<math.h>
+	<stdio.h>
+	<string.h>
+	<stdio.h>
+	<string.h>
+	<string.h>
+
